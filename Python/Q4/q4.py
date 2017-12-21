@@ -10,6 +10,7 @@ two 2-digit numbers is 9009 = 91 × 99.
 '''
 #PROGRAM:
 
+
 lpal = []
 
 for i in range(1,1000):
